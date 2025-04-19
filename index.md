@@ -11,6 +11,7 @@ Hi, I'm Branden Ge. Check out my repos.
 | Project Name        | Web Page           | Link |
 |---------------------|--------------------|------|
 | mtc-backend-prod | No Page | [GitHub](https://github.com/brandenge/mtc-backend-prod.git) |
+| mtc-frontend-prod | No Page | [GitHub](https://github.com/brandenge/mtc-frontend-prod.git) |
 | mtc-infra-prod | No Page | [GitHub](https://github.com/brandenge/mtc-infra-prod.git) |
 
 ---
